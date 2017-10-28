@@ -1,3 +1,14 @@
+# Summary
+This is my solution for the coding challenge of Insight Data
+It's written in Python.
+The main source file is find_political_donors.py. It has a base class and two derived class Zip and Date to take care of two different output file
+
+# Method to run
+
+	./run.sh
+
+
+
 # Table of Contents
 1. [Introduction](README.md#introduction)
 2. [Challenge summary](README.md#challenge-summary)

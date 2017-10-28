@@ -2,7 +2,7 @@
 This is my solution for the coding challenge of Insight Data.  
 It's written in Python.  
 The main source file is `find_political_donors.py`.  
-It has a base class and two derived class Zip and Date to take care of two different output file
+It has a base class and two derived classes Zip and Date to take care of two different output files
 
 # Method to run
 
